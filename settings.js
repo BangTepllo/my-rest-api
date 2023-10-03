@@ -5,7 +5,7 @@ global.apikey = ["AdminSf", "sfmd", "SatanFusion"]
 global.MONGO_DB_URI = "mongodb+srv://sfvpnteam752:1tMKf3H2oPcz0ChN@cluster0.l5btbqh.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "sfvpnteam752@gmail.com" //email
-global.email_password = "ytyl pwyk levm afpu" //application password email
+global.email_password = "ytylpwyklevmafpu" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
 global.loghandler = {
