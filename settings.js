@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.creator = 'Admin SF'// yourname
-global.apikey = ["AdminSf", "sfmd"]
+global.apikey = ["AdminSf", "sfmd", "SatanFusion"]
 global.MONGO_DB_URI = "database mongodb" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "sfvpnteam752@gmail.com" //email
